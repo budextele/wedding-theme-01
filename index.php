@@ -2326,7 +2326,7 @@
 															draggable="false" role="img" class="emoji" alt="❤"
 															src="https://s.w.org/images/core/emoji/13.0.1/svg/2764.svg"></span><span
 														style="font-family: Montserrat, sans-serif; font-size: 11px; font-weight: 400; white-space: normal; ;">&nbsp;by&nbsp;</span><span
-														style="font-family: Montserrat, sans-serif; font-size: 11px; font-weight: 400; white-space: normal; ;">wekita.id</span>
+														style="font-family: Montserrat, sans-serif; font-size: 11px; font-weight: 400; white-space: normal; ;">budi Utomo</span>
 												</h2>
 											</div>
 										</div>
@@ -2337,7 +2337,7 @@
 												<div class="elementor-social-icons-wrapper elementor-grid">
 													<span class="elementor-grid-item">
 														<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-1f0999b"
-															href="https://www.instagram.com/" target="_blank"
+															href="https://www.instagram.com/wahyubudi902" target="_blank"
 															rel="noopener">
 															<span class="elementor-screen-only">Instagram</span>
 															<i class="fab fa-instagram"></i> </a>
