@@ -14,7 +14,7 @@
 
 
 	<!-- Optimasi Mesin Pencari oleh Rank Math - https://s.rankmath.com/home -->
-	<title>TEMA 01 WEKITA &raquo; Wedding Kita</title>
+	<title>TEMA 01 &raquo; Budi Arinda</title>
 	<meta name="description" content="the Wedding of" />
 	<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
 	<link rel="canonical" href="tema-01-wekita/" />
