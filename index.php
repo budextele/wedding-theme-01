@@ -25,8 +25,8 @@
 	<meta property="og:url" content="tema-01-wekita/" />
 	<meta property="og:site_name" content="Wedding Kita" />
 	<meta property="og:updated_time" content="2022-08-02T19:45:46+07:00" />
-	<meta property="og:image" content="wp-content/uploads/2021/12/tema1-sawal.png" />
-	<meta property="og:image:secure_url" content="wp-content/uploads/2021/12/tema1-sawal.png" />
+	<meta property="og:image" content="wp-content/uploads/2021/12/tema1-sawal.webp" />
+	<meta property="og:image:secure_url" content="wp-content/uploads/2021/12/tema1-sawal.webp" />
 	<meta property="og:image:width" content="392" />
 	<meta property="og:image:height" content="358" />
 	<meta property="og:image:alt" content="TEMA 01 WEKITA" />
@@ -36,7 +36,7 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="TEMA 01 WEKITA &raquo; Wedding Kita" />
 	<meta name="twitter:description" content="the Wedding of" />
-	<meta name="twitter:image" content="wp-content/uploads/2021/12/tema1-sawal.png" />
+	<meta name="twitter:image" content="wp-content/uploads/2021/12/tema1-sawal.webp" />
 	<meta name="twitter:label1" content="Waktunya membaca" />
 	<meta name="twitter:data1" content="2 menit" />
 	<script type="application/ld+json" class="rank-math-schema">
@@ -72,8 +72,8 @@
 				"inLanguage": "id-ID"
 			}, {
 				"@type": "ImageObject",
-				"@id": "wp-content/uploads/2021/12/tema1-sawal.png",
-				"url": "wp-content/uploads/2021/12/tema1-sawal.png",
+				"@id": "wp-content/uploads/2021/12/tema1-sawal.webp",
+				"url": "wp-content/uploads/2021/12/tema1-sawal.webp",
 				"width": "200",
 				"height": "200",
 				"inLanguage": "id-ID"
@@ -88,7 +88,7 @@
 					"@id": "#website"
 				},
 				"primaryImageOfPage": {
-					"@id": "wp-content/uploads/2021/12/tema1-sawal.png"
+					"@id": "wp-content/uploads/2021/12/tema1-sawal.webp"
 				},
 				"inLanguage": "id-ID"
 			}, {
@@ -124,7 +124,7 @@
 					"@id": "tema-01-wekita/#webpage"
 				},
 				"image": {
-					"@id": "wp-content/uploads/2021/12/tema1-sawal.png"
+					"@id": "wp-content/uploads/2021/12/tema1-sawal.webp"
 				},
 				"inLanguage": "id-ID",
 				"mainEntityOfPage": {
@@ -748,10 +748,10 @@
 											<div class="elementor-widget-container">
 												<div class="elementor-image">
 													<img width="392" height="358"
-														src="wp-content/uploads/2021/12/tema1-sawal.png"
+														src="wp-content/uploads/2021/12/tema1-sawal.webp"
 														class="attachment-1536x1536 size-1536x1536" alt=""
 														loading="lazy"
-														srcset="wp-content/uploads/2021/12/tema1-sawal.png 392w, wp-content/uploads/2021/12/tema1-sawal-300x274.png 300w"
+														srcset="wp-content/uploads/2021/12/tema1-sawal.webp 392w, wp-content/uploads/2021/12/tema1-sawal-300x274.png 300w"
 														sizes="(max-width: 392px) 100vw, 392px" /> </div>
 											</div>
 										</div>
@@ -1064,7 +1064,7 @@
 														<article class="twae-timeline-entry twae-right-aligned">
 															<div class="twae-timeline-entry-inner">
 																<time class="twae-label-extra-label">
-																	<span class="twae-label">Tahun 2016</span>
+																	<span class="twae-label">Tahun 2011</span>
 																	<span class="twae-extra-label"></span>
 																</time>
 																<div class="twae-bg-orange twae-icon"><i
@@ -1074,11 +1074,7 @@
 																	<span class="twae-title">Awal Cerita</span>
 
 																	<div class="twae-description">
-																		<p>Berawal dari teman kuliah bersama-sama
-																			memperjuangkan S1 Teknik Sipil, bertemu pada
-																			tahun 2016 hingga selalu bertemu untuk
-																			sesekali makan bersama, lalu menjalin
-																			hubungan pacaran 11-11-2017.</p>
+																		<p>Awal bertemuu karena satu tempat khursus Bahasa Inggris dan SMP yang sama.</p>
 																	</div>
 																</div>
 															</div>
@@ -1086,21 +1082,17 @@
 														<article class="twae-timeline-entry twae-left-aligned">
 															<div class="twae-timeline-entry-inner">
 																<time class="twae-label-extra-label">
-																	<span class="twae-label">Tahun 2019 - 2020</span>
+																	<span class="twae-label">Tahun 2016</span>
 																	<span class="twae-extra-label"></span>
 																</time>
 																<div class="twae-bg-orange twae-icon"><i
 																		aria-hidden="true" class="fas fa-heart"></i>
 																</div>
 																<div class="twae-bg-orange twae-data-container">
-																	<span class="twae-title">Pernikahan</span>
+																	<span class="twae-title">Bertemu Kembali</span>
 
 																	<div class="twae-description">
-																		<p>Pada tanggal 23-03-2019 kami mengikat diri
-																			pada pertunangan dan pada tanggal 29-10-2020
-																			kami pun mengadakan akad nikah.
-																			Alhamdulillah perjalanan ini sampai pada
-																			akhirnya,</p>
+																		<p>Bertemu kembali dan mulai akrab karena sama-sama saling membantu dalam pembelajaran tingkat akhir walaupun beda SMK.</p>
 																	</div>
 																</div>
 															</div>
@@ -1108,19 +1100,53 @@
 														<article class="twae-timeline-entry twae-right-aligned">
 															<div class="twae-timeline-entry-inner">
 																<time class="twae-label-extra-label">
-																	<span class="twae-label">Juni 2020</span>
+																	<span class="twae-label">Tahun 2017</span>
 																	<span class="twae-extra-label"></span>
 																</time>
 																<div class="twae-bg-orange twae-icon"><i
 																		aria-hidden="true" class="fas fa-heart"></i>
 																</div>
 																<div class="twae-bg-orange twae-data-container">
-																	<span class="twae-title">Resepsi Pernikahan</span>
+																	<span class="twae-title">LDR</span>
 
 																	<div class="twae-description">
-																		<p>Kami bisa melakukan acara resepsi yang
-																			insyAllah diadakan pada Minggu, 05 Juni
-																			2022.</p>
+																		<p>Menjalani hubungan Long Distance Relation (Jakarta - Mojokerto).</p>
+																	</div>
+																</div>
+															</div>
+														</article>
+														<article class="twae-timeline-entry twae-left-aligned">
+															<div class="twae-timeline-entry-inner">
+																<time class="twae-label-extra-label">
+																	<span class="twae-label">Mei 2022</span>
+																	<span class="twae-extra-label"></span>
+																</time>
+																<div class="twae-bg-orange twae-icon"><i
+																		aria-hidden="true" class="fas fa-heart"></i>
+																</div>
+																<div class="twae-bg-orange twae-data-container">
+																	<span class="twae-title">Lamaran</span>
+
+																	<div class="twae-description">
+																		<p>Pada tanggal 16 Mei 2022 kami mengikat diri pada pertunangan menuju selangkah lebih dekat.</p>
+																	</div>
+																</div>
+															</div>
+														</article>
+														<article class="twae-timeline-entry twae-right-aligned">
+															<div class="twae-timeline-entry-inner">
+																<time class="twae-label-extra-label">
+																	<span class="twae-label">Maret 2023</span>
+																	<span class="twae-extra-label"></span>
+																</time>
+																<div class="twae-bg-orange twae-icon"><i
+																		aria-hidden="true" class="fas fa-heart"></i>
+																</div>
+																<div class="twae-bg-orange twae-data-container">
+																	<span class="twae-title">Menikah</span>
+
+																	<div class="twae-description">
+																		<p>11 Maret 2023 Alhamdulillah kami bisa melaksanakan Pernikahan dan Resepsi.</p>
 																	</div>
 																</div>
 															</div>
@@ -1234,7 +1260,7 @@
 																	<div class="elementor-widget-container">
 																		<div
 																			class="elementor-text-editor elementor-clearfix">
-																			<p class="italic mb-4">Minggu, 05 Juni 2022
+																			<p class="italic mb-4">Sabtu, 11 Maret 2023
 																			</p>
 																		</div>
 																	</div>
@@ -1255,8 +1281,7 @@
 																	<div class="elementor-widget-container">
 																		<div
 																			class="elementor-text-editor elementor-clearfix">
-																			<p class="italic mb-4">Alamat : Ds Pagu Kec.
-																				Wates Kab. Kediri</p>
+																			<p class="italic mb-4">Alamat : Ds Tladan Kec. Kawedanan Kab. Magetan</p>
 																		</div>
 																	</div>
 																</div>
@@ -1293,7 +1318,7 @@
 																	<div class="elementor-widget-container">
 																		<div
 																			class="elementor-text-editor elementor-clearfix">
-																			<p class="italic mb-4">Minggu, 05 Juni 2022
+																			<p class="italic mb-4">Sabtu, 11 Maret 2023
 																			</p>
 																		</div>
 																	</div>
@@ -1304,7 +1329,7 @@
 																	<div class="elementor-widget-container">
 																		<div
 																			class="elementor-text-editor elementor-clearfix">
-																			<p class="italic mb-4">Pukul 10.00 WIB</p>
+																			<p class="italic mb-4">Pukul 11.00 WIB</p>
 																		</div>
 																	</div>
 																</div>
@@ -1314,8 +1339,7 @@
 																	<div class="elementor-widget-container">
 																		<div
 																			class="elementor-text-editor elementor-clearfix">
-																			<p class="italic mb-4">Alamat : Ds Pagu Kec.
-																				Wates Kab. Kediri</p>
+																			<p class="italic mb-4">Alamat : Ds Tladan Kec. Kawedanan Kab. Magetan</p>
 																		</div>
 																	</div>
 																</div>
@@ -1587,7 +1611,7 @@
 																	<div class="elementor-widget-container">
 																		<p
 																			class="elementor-heading-title elementor-size-default">
-																			No. Rekening : 20212021</p>
+																			No. Rekening : 1420015961641</p>
 																	</div>
 																</div>
 																<div class="elementor-element elementor-element-dc581d4 elementor-align-center elementor-tablet-align-center elementor-mobile-align-center wdp-sticky-section-no elementor-widget elementor-widget-weddingpress-copy-text"
@@ -1600,7 +1624,7 @@
 																		<div class="head-title"></div>
 																		<div class="elementor-button-wrapper">
 																			<div class="copy-content spancontent"
-																				style="display: none;">20212021</div>
+																				style="display: none;">1420015961641</div>
 
 																			<a style="cursor:pointer;"
 																				onclick="copyText(this)"
@@ -1669,7 +1693,7 @@
 																	<div class="elementor-widget-container">
 																		<p
 																			class="elementor-heading-title elementor-size-default">
-																			A/n Budi dari Punakawan
+																			A/n Arinda Reni Eka Rohmawati
 																		</p>
 																	</div>
 																</div>
@@ -1715,7 +1739,7 @@
 																	<div class="elementor-widget-container">
 																		<p
 																			class="elementor-heading-title elementor-size-default">
-																			Ds Pagu Kec. Wates Kab. Kediri</p>
+																			Alamat : Ds Tladan Kec. Kawedanan Kab. Magetan</p>
 																	</div>
 																</div>
 															</div>
@@ -1730,201 +1754,7 @@
 						</div>
 					</div>
 				</section>
-				<section
-					class="elementor-section elementor-top-section elementor-element elementor-element-6942eb2c elementor-section-boxed elementor-section-height-default elementor-section-height-default wdp-sticky-section-no"
-					data-id="6942eb2c" data-element_type="section"
-					data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-row">
-							<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4dbd437e wdp-sticky-section-no"
-								data-id="4dbd437e" data-element_type="column"
-								data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-								<div class="elementor-column-wrap elementor-element-populated">
-									<div class="elementor-background-overlay"></div>
-									<div class="elementor-widget-wrap">
-										<div class="elementor-element elementor-element-2b8fcddd wdp-sticky-section-no elementor-widget elementor-widget-heading"
-											data-id="2b8fcddd" data-element_type="widget"
-											data-widget_type="heading.default">
-											<div class="elementor-widget-container">
-												<p class="elementor-heading-title elementor-size-default">health
-													protocols</p>
-											</div>
-										</div>
-										<div class="elementor-element elementor-element-aadf80a wdp-sticky-section-no elementor-widget elementor-widget-heading"
-											data-id="aadf80a" data-element_type="widget"
-											data-widget_type="heading.default">
-											<div class="elementor-widget-container">
-												<h1 class="elementor-heading-title elementor-size-default">Guna mencegah
-													penyebaran Covid-19, diharapkan bagi tamu undangan untuk mematuhi
-													Protokol Kesehatan di bawah ini :</h1>
-											</div>
-										</div>
-										<section
-											class="elementor-section elementor-inner-section elementor-element elementor-element-66de0115 elementor-section-boxed elementor-section-height-default elementor-section-height-default wdp-sticky-section-no"
-											data-id="66de0115" data-element_type="section">
-											<div class="elementor-container elementor-column-gap-default">
-												<div class="elementor-row">
-													<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-18854e8 wdp-sticky-section-no"
-														data-id="18854e8" data-element_type="column">
-														<div class="elementor-column-wrap elementor-element-populated">
-															<div class="elementor-widget-wrap">
-																<div class="elementor-element elementor-element-437f5890 elementor-position-top elementor-vertical-align-top wdp-sticky-section-no elementor-widget elementor-widget-image-box"
-																	data-id="437f5890" data-element_type="widget"
-																	data-widget_type="image-box.default">
-																	<div class="elementor-widget-container">
-																		<div class="elementor-image-box-wrapper">
-																			<figure class="elementor-image-box-img"><img
-																					width="471" height="470"
-																					src="wp-content/uploads/2021/12/CUCI-TANGAN.png"
-																					class="elementor-animation-grow attachment-full size-full"
-																					alt="" loading="lazy" /></figure>
-																			<div class="elementor-image-box-content">
-																				<h3 class="elementor-image-box-title">
-																					Cuci Tangan</h3>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e6faf37 wdp-sticky-section-no"
-														data-id="e6faf37" data-element_type="column">
-														<div class="elementor-column-wrap elementor-element-populated">
-															<div class="elementor-widget-wrap">
-																<div class="elementor-element elementor-element-15ec98f5 elementor-position-top elementor-vertical-align-top wdp-sticky-section-no elementor-widget elementor-widget-image-box"
-																	data-id="15ec98f5" data-element_type="widget"
-																	data-widget_type="image-box.default">
-																	<div class="elementor-widget-container">
-																		<div class="elementor-image-box-wrapper">
-																			<figure class="elementor-image-box-img"><img
-																					width="471" height="470"
-																					src="wp-content/uploads/2021/12/pakai-masker-1.png"
-																					class="elementor-animation-grow attachment-full size-full"
-																					alt="" loading="lazy" /></figure>
-																			<div class="elementor-image-box-content">
-																				<h3 class="elementor-image-box-title">
-																					Gunakan Masker</h3>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-73b6a08a wdp-sticky-section-no"
-														data-id="73b6a08a" data-element_type="column">
-														<div class="elementor-column-wrap elementor-element-populated">
-															<div class="elementor-widget-wrap">
-																<div class="elementor-element elementor-element-3fec4d8a elementor-position-top elementor-vertical-align-top wdp-sticky-section-no elementor-widget elementor-widget-image-box"
-																	data-id="3fec4d8a" data-element_type="widget"
-																	data-widget_type="image-box.default">
-																	<div class="elementor-widget-container">
-																		<div class="elementor-image-box-wrapper">
-																			<figure class="elementor-image-box-img"><img
-																					width="470" height="470"
-																					src="wp-content/uploads/2021/12/jaga-jarak-1.png"
-																					class="elementor-animation-grow attachment-full size-full"
-																					alt="" loading="lazy" /></figure>
-																			<div class="elementor-image-box-content">
-																				<h3 class="elementor-image-box-title">
-																					Jaga Jarak </h3>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</section>
-										<section
-											class="elementor-section elementor-inner-section elementor-element elementor-element-28abc591 elementor-section-boxed elementor-section-height-default elementor-section-height-default wdp-sticky-section-no"
-											data-id="28abc591" data-element_type="section">
-											<div class="elementor-container elementor-column-gap-default">
-												<div class="elementor-row">
-													<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-785aba03 wdp-sticky-section-no"
-														data-id="785aba03" data-element_type="column">
-														<div class="elementor-column-wrap elementor-element-populated">
-															<div class="elementor-widget-wrap">
-																<div class="elementor-element elementor-element-75f68e99 elementor-position-top elementor-vertical-align-top wdp-sticky-section-no elementor-widget elementor-widget-image-box"
-																	data-id="75f68e99" data-element_type="widget"
-																	data-widget_type="image-box.default">
-																	<div class="elementor-widget-container">
-																		<div class="elementor-image-box-wrapper">
-																			<figure class="elementor-image-box-img"><img
-																					width="470" height="470"
-																					src="wp-content/uploads/2021/12/tidak-salaman.png"
-																					class="elementor-animation-grow attachment-full size-full"
-																					alt="" loading="lazy" /></figure>
-																			<div class="elementor-image-box-content">
-																				<h3 class="elementor-image-box-title">
-																					Tidak Bersalaman</h3>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-58e9be2a wdp-sticky-section-no"
-														data-id="58e9be2a" data-element_type="column">
-														<div class="elementor-column-wrap elementor-element-populated">
-															<div class="elementor-widget-wrap">
-																<div class="elementor-element elementor-element-533e3189 elementor-position-top elementor-vertical-align-top wdp-sticky-section-no elementor-widget elementor-widget-image-box"
-																	data-id="533e3189" data-element_type="widget"
-																	data-widget_type="image-box.default">
-																	<div class="elementor-widget-container">
-																		<div class="elementor-image-box-wrapper">
-																			<figure class="elementor-image-box-img"><img
-																					width="470" height="470"
-																					src="wp-content/uploads/2021/12/HAND.png"
-																					class="elementor-animation-grow attachment-full size-full"
-																					alt="" loading="lazy" /></figure>
-																			<div class="elementor-image-box-content">
-																				<h3 class="elementor-image-box-title">
-																					Gunakan Handsanitizer</h3>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4e1816ff wdp-sticky-section-no"
-														data-id="4e1816ff" data-element_type="column">
-														<div class="elementor-column-wrap elementor-element-populated">
-															<div class="elementor-widget-wrap">
-																<div class="elementor-element elementor-element-5fd4fb8a elementor-position-top elementor-vertical-align-top wdp-sticky-section-no elementor-widget elementor-widget-image-box"
-																	data-id="5fd4fb8a" data-element_type="widget"
-																	data-widget_type="image-box.default">
-																	<div class="elementor-widget-container">
-																		<div class="elementor-image-box-wrapper">
-																			<figure class="elementor-image-box-img"><img
-																					width="470" height="470"
-																					src="wp-content/uploads/2021/12/tidak-berkerumun.png"
-																					class="elementor-animation-grow attachment-full size-full"
-																					alt="" loading="lazy" /></figure>
-																			<div class="elementor-image-box-content">
-																				<h3 class="elementor-image-box-title">
-																					Hindari Kerumunan</h3>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</section>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
+				
 				<section
 					class="elementor-section elementor-top-section elementor-element elementor-element-66ba38b4 elementor-section-boxed elementor-section-height-default elementor-section-height-default wdp-sticky-section-no"
 					data-id="66ba38b4" data-element_type="section"
@@ -2029,10 +1859,10 @@
 																	<div class="elementor-widget-container">
 
 
-																		<div class="guestbook-box-content elementor-comment-box-wrapper"
+																		<div class=" elementor-comment-box-wrapper"
 																			data-id="wekita011">
 																			<div class="comment-form-container">
-																				<form id="post-guestbook-box">
+																				<form id="post-guestbook-box" action="ucapan.php">
 																					<div class="guestbook-label">
 																						<label
 																							class="elementor-screen-only">
@@ -2040,9 +1870,15 @@
 																					<input style="pointer-events: none;"
 																						class="form-control" type="text"
 																						name="guestbook-name"
-																						placeholder="Mohon maaf, hanya tamu undangan yang dapat memberikan ucapan!"
-																						value="" required nofocus
-																						readonly="readonly">
+																						<?php
+																						if(isset($_GET['to'])){
+																							$to = $_GET['to'];
+																							echo "value='$to'";
+																						} else {
+																							echo "placeholder='Tamu Undangan'";
+																						}
+																						?> 
+																						required nofocus >
 
 																					<div class="guestbook-label">
 																						<label
@@ -2252,14 +2088,14 @@
 											<div class="elementor-widget-container">
 
 												<div class="modalx"
-													data-sampul='wp-content/uploads/2021/12/pexels-photo-265730.png'>
+													data-sampul='wp-content/uploads/2021/12/pexels-photo-265730.webp'>
 
 													<div class="overlayy"></div>
 													<div class="content-modalx">
 														<div class="info_modalx">
 
 															<div class="elementor-image img"><img
-																	src="wp-content/uploads/2021/12/tema1-co.png"
+																	src="wp-content/uploads/2021/12/tema1-co.webp"
 																	title="tema1-co" alt="tema1-co" /></div>
 
 
@@ -2267,7 +2103,7 @@
 															<div class="wdp-mempelai">Budi &amp; Arinda
 															</div>
 
-															<div class="wdp-dear">Kepada Bapak/Ibu/Saudara/i 
+															<div class="wdp-dear">Kepada Bapak/Ibu/Saudara/i :
 																<br> <br>
 																<p class="wdp-mempelai" style="color: white; font-size: 2.5em; "><?php
 																//get to isset
@@ -2279,7 +2115,6 @@
 																}
 																?></p>
 															</div>
-															<div class="wdp-name"></div>
 															<div class="wdp-text">
 																Kami Mengundang Anda Untuk Hadir Di Acara Pernikahan
 																Kami.</div>
