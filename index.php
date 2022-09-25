@@ -907,10 +907,10 @@
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
 																			<img width="371" height="354"
-																				src="wp-content/uploads/2021/12/tema1-w.png"
+																				src="wp-content/uploads/2021/12/tema1-w.webp"
 																				class="elementor-animation-grow attachment-large size-large"
 																				alt="" loading="lazy"
-																				srcset="wp-content/uploads/2021/12/tema1-w.png 371w, wp-content/uploads/2021/12/tema1-w-300x286.png 300w"
+																				srcset="wp-content/uploads/2021/12/tema1-w.webp 371w, wp-content/uploads/2021/12/tema1-w-300x286.png 300w"
 																				sizes="(max-width: 371px) 100vw, 371px" />
 																		</div>
 																	</div>
@@ -982,10 +982,10 @@
 											<div class="elementor-widget-container">
 												<div class="elementor-image">
 													<img width="370" height="354"
-														src="wp-content/uploads/2021/12/tema1-p.png"
+														src="wp-content/uploads/2021/12/tema1-p.webp"
 														class="elementor-animation-grow attachment-large size-large"
 														alt="" loading="lazy"
-														srcset="wp-content/uploads/2021/12/tema1-p.png 370w, wp-content/uploads/2021/12/tema1-p-300x287.png 300w"
+														srcset="wp-content/uploads/2021/12/tema1-p.webp 370w, wp-content/uploads/2021/12/tema1-p-300x287.png 300w"
 														sizes="(max-width: 370px) 100vw, 370px" /> </div>
 											</div>
 										</div>
@@ -1416,61 +1416,61 @@
 													<div class="elementor-main-swiper swiper-container">
 														<div class="swiper-wrapper">
 															<div class="swiper-slide">
-																<a href="wp-content/uploads/2021/12/1-scaled.jpg"
+																<a href="wp-content/uploads/2021/12/1-scaled.webp"
 																	data-elementor-open-lightbox="yes"
 																	data-elementor-lightbox-slideshow="18975a12"
 																	data-elementor-lightbox-title="1"
 																	e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY1ODEsInVybCI6Imh0dHBzOlwvXC93ZWRkaW5na2l0YS5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMTJcLzEtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjE4OTc1YTEyIn0%3D">
 																	<div class="elementor-carousel-image"
-																		style="background-image: url(wp-content/uploads/2021/12/1-scaled.jpg)">
+																		style="background-image: url(wp-content/uploads/2021/12/1-scaled.webp)">
 
 
 																	</div>
 																</a> </div>
 															<div class="swiper-slide">
-																<a href="wp-content/uploads/2021/12/2-scaled.jpg"
+																<a href="wp-content/uploads/2021/12/2-scaled.webp"
 																	data-elementor-open-lightbox="yes"
 																	data-elementor-lightbox-slideshow="18975a12"
 																	data-elementor-lightbox-title="2"
 																	e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY1ODIsInVybCI6Imh0dHBzOlwvXC93ZWRkaW5na2l0YS5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMTJcLzItc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjE4OTc1YTEyIn0%3D">
 																	<div class="elementor-carousel-image"
-																		style="background-image: url(wp-content/uploads/2021/12/2-scaled.jpg)">
+																		style="background-image: url(wp-content/uploads/2021/12/2-scaled.webp)">
 
 
 																	</div>
 																</a> </div>
 															<div class="swiper-slide">
-																<a href="wp-content/uploads/2021/12/3-scaled.jpg"
+																<a href="wp-content/uploads/2021/12/3-scaled.webp"
 																	data-elementor-open-lightbox="yes"
 																	data-elementor-lightbox-slideshow="18975a12"
 																	data-elementor-lightbox-title="3"
 																	e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY1ODMsInVybCI6Imh0dHBzOlwvXC93ZWRkaW5na2l0YS5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMTJcLzMtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjE4OTc1YTEyIn0%3D">
 																	<div class="elementor-carousel-image"
-																		style="background-image: url(wp-content/uploads/2021/12/3-scaled.jpg)">
+																		style="background-image: url(wp-content/uploads/2021/12/3-scaled.webp)">
 
 
 																	</div>
 																</a> </div>
 															<div class="swiper-slide">
-																<a href="wp-content/uploads/2021/12/4.jpg"
+																<a href="wp-content/uploads/2021/12/4.webp"
 																	data-elementor-open-lightbox="yes"
 																	data-elementor-lightbox-slideshow="18975a12"
 																	data-elementor-lightbox-title="4"
 																	e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY1ODQsInVybCI6Imh0dHBzOlwvXC93ZWRkaW5na2l0YS5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMTJcLzQuanBnIiwic2xpZGVzaG93IjoiMTg5NzVhMTIifQ%3D%3D">
 																	<div class="elementor-carousel-image"
-																		style="background-image: url(wp-content/uploads/2021/12/4.jpg)">
+																		style="background-image: url(wp-content/uploads/2021/12/4.webp)">
 
 
 																	</div>
 																</a> </div>
 															<div class="swiper-slide">
-																<a href="wp-content/uploads/2021/12/5.jpg"
+																<a href="wp-content/uploads/2021/12/5.webp"
 																	data-elementor-open-lightbox="yes"
 																	data-elementor-lightbox-slideshow="18975a12"
 																	data-elementor-lightbox-title="5"
 																	e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY1ODYsInVybCI6Imh0dHBzOlwvXC93ZWRkaW5na2l0YS5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMTJcLzUuanBnIiwic2xpZGVzaG93IjoiMTg5NzVhMTIifQ%3D%3D">
 																	<div class="elementor-carousel-image"
-																		style="background-image: url(wp-content/uploads/2021/12/5.jpg)">
+																		style="background-image: url(wp-content/uploads/2021/12/5.webp)">
 
 
 																	</div>
@@ -1493,7 +1493,7 @@
 														<div class="swiper-wrapper">
 															<div class="swiper-slide">
 																<div class="elementor-fit-aspect-ratio elementor-carousel-image"
-																	style="background-image: url(wp-content/uploads/2021/12/1-scaled.jpg)">
+																	style="background-image: url(wp-content/uploads/2021/12/1-scaled.webp)">
 
 
 																</div>
@@ -1501,7 +1501,7 @@
 															</div>
 															<div class="swiper-slide">
 																<div class="elementor-fit-aspect-ratio elementor-carousel-image"
-																	style="background-image: url(wp-content/uploads/2021/12/2-scaled.jpg)">
+																	style="background-image: url(wp-content/uploads/2021/12/2-scaled.webp)">
 
 
 																</div>
@@ -1509,7 +1509,7 @@
 															</div>
 															<div class="swiper-slide">
 																<div class="elementor-fit-aspect-ratio elementor-carousel-image"
-																	style="background-image: url(wp-content/uploads/2021/12/3-scaled.jpg)">
+																	style="background-image: url(wp-content/uploads/2021/12/3-scaled.webp)">
 
 
 																</div>
@@ -1517,7 +1517,7 @@
 															</div>
 															<div class="swiper-slide">
 																<div class="elementor-fit-aspect-ratio elementor-carousel-image"
-																	style="background-image: url(wp-content/uploads/2021/12/4.jpg)">
+																	style="background-image: url(wp-content/uploads/2021/12/4.webp)">
 
 
 																</div>
@@ -1525,7 +1525,7 @@
 															</div>
 															<div class="swiper-slide">
 																<div class="elementor-fit-aspect-ratio elementor-carousel-image"
-																	style="background-image: url(wp-content/uploads/2021/12/5.jpg)">
+																	style="background-image: url(wp-content/uploads/2021/12/5.webp)">
 
 
 																</div>
@@ -1878,7 +1878,7 @@
 																							echo "placeholder='Tamu Undangan'";
 																						}
 																						?> 
-																						required nofocus >
+																						required>
 
 																					<div class="guestbook-label">
 																						<label
@@ -2012,9 +2012,9 @@
 											<div class="elementor-widget-container">
 												<div class="elementor-image">
 													<img width="392" height="358"
-														src="wp-content/uploads/2021/12/tema1-sakhir.png"
+														src="wp-content/uploads/2021/12/tema1-sakhir.webp"
 														class="attachment-large size-large" alt="" loading="lazy"
-														srcset="wp-content/uploads/2021/12/tema1-sakhir.png 392w, wp-content/uploads/2021/12/tema1-sakhir-300x274.png 300w"
+														srcset="wp-content/uploads/2021/12/tema1-sakhir.webp 392w, wp-content/uploads/2021/12/tema1-sakhir-300x274.png 300w"
 														sizes="(max-width: 392px) 100vw, 392px" /> </div>
 											</div>
 										</div>
