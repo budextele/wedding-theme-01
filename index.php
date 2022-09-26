@@ -1729,7 +1729,8 @@
 																		<div class=" elementor-comment-box-wrapper"
 																			data-id="wekita011">
 																			<div class="comment-form-container">
-																				<form id="post-guestbook-box" action="ucapan.php">
+																				<!-- form -->
+																				<form id="post-guestbook-box" action="ucapan.php" >
 																					<div class="guestbook-label">
 																						<label
 																							class="elementor-screen-only">
@@ -1778,23 +1779,94 @@
 																							Kirimkan Ucapan </button>
 																					</div>
 																				</form>
+																				<!-- form new -->
+																				<!-- <iframe src="" frameborder="0"> -->
+																					<form action="ucapan.php" method="post" >
+																						<div class="guestbook-label">
+																							<label
+																								class="elementor-screen-only">
+																							</label></div>
+																						<input class="form-control" type="text"
+																							name="guestbook-name"
+																							<?php
+																							if(isset($_GET['to'])){
+																								$to = $_GET['to'];
+																								echo "value='$to'";
+																							} else {
+																								echo "placeholder='Tamu Undangan'";
+																							}
+																							?> 
+																							required>
+																						<div class="guestbook-label">
+																							<label
+																								class="elementor-screen-only">
+																							</label></div>
+																						<textarea class="form-control"
+																							rows="3"
+																							name="guestbook-message"
+																							placeholder="Berikan Ucapan Dan Doa Restu"
+																							required></textarea>
+																						<div class="guestbook-label">
+																							<label
+																								class="elementor-screen-only">
+																							</label>
+																						</div>
+																						<select class="form-control"
+																							name="guestbook-confirm" required>
+																							<option>Konfirmasi
+																								Kehadiran</option>
+																							<option value="Hadir">Hadir
+																							</option>
+																							<option value="Akan Hadir">Akan
+																								Hadir</option>
+																							<option value="Tidak Hadir">
+																								Tidak Hadir</option>
+																						</select>
+																						<div
+																							class="elementor-button-wrapper">
+																							<button type="submit"
+																								class="elementor-button-link elementor-button elementor-size-sm">
+																								Kirimkan Ucapan </button>
+																						</div>
+																					</form>
+																				<!-- </iframe> -->
+																				
+
+
 																			</div>
 																			<div id="hidden-avatar"
 																				style="display:none;"></div>
+
+																				<!-- komentar -->
 																			<div class="guestbook-list">
-																				<div class="user-guestbook">
-																					<div></div>
-																					<div class="guestbook">
-																						<a
-																							class="guestbook-name">sada</a><span
-																							class="wdp-confirm"><i
-																								class="fas fa-check-circle"></i>
-																							Hadir</span>
-																						<div class="guestbook-message">
-																							sadasdsa</div>
+																			<?php
+																				include 'koneksi.php';
+																				$data = mysqli_query($koneksi,"select * from ucapan");
+																				while($d = mysqli_fetch_array($data)){
+																					?>
+																					<div class="user-guestbook">
+																						<div></div>
+																						<div class="guestbook">
+																							<a class="guestbook-name">
+																								<?php echo $d['nama']; ?>
+																							</a>
+																							<span class="wdp-confirm">
+																								<i class="fas fa-check-circle"></i>
+																								<?php echo $d['konfirmasi']; ?>
+																							</span>
+																							<div class="guestbook-message">
+																								<?php echo $d['komen']; ?>
+																							</div>
+																						</div>
 																					</div>
-																				</div>
+																			<?php
+																				}
+																			?>
 																			</div>
+																			
+																			<!-- end komentar -->
+
+
 																		</div>
 																	</div>
 																</div>
