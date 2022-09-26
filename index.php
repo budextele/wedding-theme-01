@@ -1733,7 +1733,7 @@
 																				
 																				<!-- form new -->
 																					
-																				<iframe id="iframe01" src="iframe-ucapan.php" frameborder="0" height="250"></iframe>
+																				<iframe id="iframe01" src="iframe-ucapan.php?to=<?php if(isset($_GET['to'])){ $to = $_GET['to']; echo $to; } else { echo "Tamu Undangan";}?>" frameborder="0" height="250"></iframe>
 																				
 
 
