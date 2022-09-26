@@ -984,7 +984,7 @@
 																<div class="twae-bg-orange twae-data-container">
 																	<span class="twae-title">Awal Cerita</span>
 																	<div class="twae-description">
-																		<p>Awal bertemuu karena satu tempat khursus Bahasa Inggris dan SMP yang sama.</p>
+																		<p>Awal bertemu karena satu tempat khursus Bahasa Inggris dan SMP yang sama.</p>
 																	</div>
 																</div>
 															</div>
@@ -1052,7 +1052,7 @@
 																<div class="twae-bg-orange twae-data-container">
 																	<span class="twae-title">Menikah</span>
 																	<div class="twae-description">
-																		<p>11 Maret 2023 Alhamdulillah kami bisa melaksanakan Pernikahan dan Resepsi.</p>
+																		<p>Kami memantapkan hati untuk menyempurnakan agama dan melangsungkan pernikahan pada 11 Maret 2023.</p>
 																	</div>
 																</div>
 															</div>
