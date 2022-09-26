@@ -10,6 +10,6 @@
     echo $konfirmasi;
     mysqli_query($koneksi,"insert into ucapan (nama, komen, konfirmasi) values('$nama','$ucapan','$konfirmasi')");
 
-    header("location:index.php");
+    header("location:iframe-ucapan.php");
 
 ?>

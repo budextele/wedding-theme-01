@@ -1730,106 +1730,10 @@
 																			data-id="wekita011">
 																			<div class="comment-form-container">
 																				<!-- form -->
-																				<form id="post-guestbook-box" action="ucapan.php" >
-																					<div class="guestbook-label">
-																						<label
-																							class="elementor-screen-only">
-																						</label></div>
-																					<input style="pointer-events: none;"
-																						class="form-control" type="text"
-																						name="guestbook-name"
-																						<?php
-																						if(isset($_GET['to'])){
-																							$to = $_GET['to'];
-																							echo "value='$to'";
-																						} else {
-																							echo "placeholder='Tamu Undangan'";
-																						}
-																						?> 
-																						required>
-																					<div class="guestbook-label">
-																						<label
-																							class="elementor-screen-only">
-																						</label></div>
-																					<textarea class="form-control"
-																						rows="3"
-																						name="guestbook-message"
-																						placeholder="Berikan Ucapan Dan Doa Restu"
-																						required></textarea>
-																					<div class="guestbook-label">
-																						<label
-																							class="elementor-screen-only">
-																						</label>
-																					</div>
-																					<select class="form-control"
-																						name="confirm" required>
-																						<option value="">Konfirmasi
-																							Kehadiran</option>
-																						<option value="Hadir">Hadir
-																						</option>
-																						<option value="Akan Hadir">Akan
-																							Hadir</option>
-																						<option value="Tidak Hadir">
-																							Tidak Hadir</option>
-																					</select>
-																					<div
-																						class="elementor-button-wrapper">
-																						<button type="submit"
-																							class="elementor-button-link elementor-button elementor-size-sm">
-																							Kirimkan Ucapan </button>
-																					</div>
-																				</form>
+																				
 																				<!-- form new -->
-																				<!-- <iframe src="" frameborder="0"> -->
-																					<form action="ucapan.php" method="post" >
-																						<div class="guestbook-label">
-																							<label
-																								class="elementor-screen-only">
-																							</label></div>
-																						<input class="form-control" type="text"
-																							name="guestbook-name"
-																							<?php
-																							if(isset($_GET['to'])){
-																								$to = $_GET['to'];
-																								echo "value='$to'";
-																							} else {
-																								echo "placeholder='Tamu Undangan'";
-																							}
-																							?> 
-																							required>
-																						<div class="guestbook-label">
-																							<label
-																								class="elementor-screen-only">
-																							</label></div>
-																						<textarea class="form-control"
-																							rows="3"
-																							name="guestbook-message"
-																							placeholder="Berikan Ucapan Dan Doa Restu"
-																							required></textarea>
-																						<div class="guestbook-label">
-																							<label
-																								class="elementor-screen-only">
-																							</label>
-																						</div>
-																						<select class="form-control"
-																							name="guestbook-confirm" required>
-																							<option>Konfirmasi
-																								Kehadiran</option>
-																							<option value="Hadir">Hadir
-																							</option>
-																							<option value="Akan Hadir">Akan
-																								Hadir</option>
-																							<option value="Tidak Hadir">
-																								Tidak Hadir</option>
-																						</select>
-																						<div
-																							class="elementor-button-wrapper">
-																							<button type="submit"
-																								class="elementor-button-link elementor-button elementor-size-sm">
-																								Kirimkan Ucapan </button>
-																						</div>
-																					</form>
-																				<!-- </iframe> -->
+																					
+																				<iframe id="iframe01" src="iframe-ucapan.php" frameborder="0" height="250"></iframe>
 																				
 
 
@@ -1839,30 +1743,17 @@
 
 																				<!-- komentar -->
 																			<div class="guestbook-list">
-																			<?php
-																				include 'koneksi.php';
-																				$data = mysqli_query($koneksi,"select * from ucapan");
-																				while($d = mysqli_fetch_array($data)){
-																					?>
-																					<div class="user-guestbook">
-																						<div></div>
-																						<div class="guestbook">
-																							<a class="guestbook-name">
-																								<?php echo $d['nama']; ?>
-																							</a>
-																							<span class="wdp-confirm">
-																								<i class="fas fa-check-circle"></i>
-																								<?php echo $d['konfirmasi']; ?>
-																							</span>
-																							<div class="guestbook-message">
-																								<?php echo $d['komen']; ?>
-																							</div>
-																						</div>
-																					</div>
-																			<?php
-																				}
-																			?>
+																				<iframe id="iframe02" src="iframe-komen.php" frameborder="0" height="100%" id="iframeKOmen" allowtransparency="true" onload="this.style.height=(this.contentDocument.body.scrollHeight+45) +'px';" scrolling="no" style="width:100%;border:none;"></iframe>
+																			
 																			</div>
+																			<script>
+																				const iframe01 = document.getElementById('iframe01');
+																				const iframe02 = document.getElementById('iframe02');
+																				iframe01.onload = function() {
+																					//refresh iframe02
+																					iframe02.src = iframe02.src;
+																				}
+																			</script>
 																			
 																			<!-- end komentar -->
 
