@@ -855,14 +855,14 @@
 																		<div
 																			class="elementor-social-icons-wrapper elementor-grid">
 																			<span class="elementor-grid-item">
-																				<a href="https://facebook.com" class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-grow elementor-repeater-item-8c13459"
+																				<a href="https://www.facebook.com/arinda.rohmawati" class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-grow elementor-repeater-item-8c13459"
 																					target="_blank">
 																					<span
 																						class="elementor-screen-only">Facebook</span>
 																					<i class="fab fa-facebook"></i> </a>
 																			</span>
 																			<span class="elementor-grid-item">
-																				<a href="https://instagram.com" class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-grow elementor-repeater-item-6154405"
+																				<a href="https://instagram.com/arinda_reni" class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-grow elementor-repeater-item-6154405"
 																					target="_blank">
 																					<span
 																						class="elementor-screen-only">Instagram</span>
@@ -926,13 +926,13 @@
 											<div class="elementor-widget-container">
 												<div class="elementor-social-icons-wrapper elementor-grid">
 													<span class="elementor-grid-item">
-														<a href="https://facebook.com" class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-grow elementor-repeater-item-8c13459"
+														<a href="https://www.facebook.com/budextele" class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-grow elementor-repeater-item-8c13459"
 															target="_blank">
 															<span class="elementor-screen-only">Facebook</span>
 															<i class="fab fa-facebook"></i> </a>
 													</span>
 													<span class="elementor-grid-item">
-														<a href="https://instagram.com" class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-grow elementor-repeater-item-6154405"
+														<a href="https://www.instagram.com/wahyubudi902" class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-grow elementor-repeater-item-6154405"
 															target="_blank">
 															<span class="elementor-screen-only">Instagram</span>
 															<i class="fab fa-instagram"></i> </a>
