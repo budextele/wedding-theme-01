@@ -1,27 +1,19 @@
 <!DOCTYPE html>
 <html lang="id-ID" prefix="og: https://ogp.me/ns#">
-
 <head>
 	<meta charset="UTF-8">
-
 	<style type="text/css">
-		.wdp-comment-text img {
-
-			max-width: 100% !important;
-
-		}
+		.wdp-comment-text img { max-width: 100% !important;}
 	</style>
-
-
 	<!-- Optimasi Mesin Pencari oleh Rank Math - https://s.rankmath.com/home -->
-	<title>TEMA 01 &raquo; Budi Arinda</title>
-	<meta name="description" content="the Wedding of" />
+	<title>INVITATION &raquo; Budi Arinda</title>
+	<meta name="description" content="the Wedding of Wahyu Budi & Arinda Reni" />
 	<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
 	<link rel="canonical" href="tema-01-wekita/" />
 	<meta property="og:locale" content="id_ID" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="TEMA 01 WEKITA &raquo; Wedding Kita" />
-	<meta property="og:description" content="the Wedding of" />
+	<meta property="og:title" content="Budi Arinda" />
+	<meta property="og:description" content="the Wedding of Wahyu Budi & Arinda Reni" />
 	<meta property="og:url" content="tema-01-wekita/" />
 	<meta property="og:site_name" content="Wedding Kita" />
 	<meta property="og:updated_time" content="2022-08-02T19:45:46+07:00" />
@@ -29,13 +21,13 @@
 	<meta property="og:image:secure_url" content="wp-content/uploads/2021/12/tema1-sawal.webp" />
 	<meta property="og:image:width" content="392" />
 	<meta property="og:image:height" content="358" />
-	<meta property="og:image:alt" content="TEMA 01 WEKITA" />
+	<meta property="og:image:alt" content="TEMA 01" />
 	<meta property="og:image:type" content="image/png" />
 	<meta property="article:published_time" content="2022-05-10T10:45:51+07:00" />
 	<meta property="article:modified_time" content="2022-08-02T19:45:46+07:00" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="TEMA 01 WEKITA &raquo; Wedding Kita" />
-	<meta name="twitter:description" content="the Wedding of" />
+	<meta name="twitter:title" content="Budi Arinda" />
+	<meta name="twitter:description" content="the Wedding of Wahyu Budi & Arinda Reni" />
 	<meta name="twitter:image" content="wp-content/uploads/2021/12/tema1-sawal.webp" />
 	<meta name="twitter:label1" content="Waktunya membaca" />
 	<meta name="twitter:data1" content="2 menit" />
@@ -81,7 +73,7 @@
 				"@type": "WebPage",
 				"@id": "tema-01-wekita/#webpage",
 				"url": "tema-01-wekita/",
-				"name": "TEMA 01 WEKITA &raquo; Wedding Kita",
+				"name": "Budi Arinda",
 				"datePublished": "2022-05-10T10:45:51+07:00",
 				"dateModified": "2022-08-02T19:45:46+07:00",
 				"isPartOf": {
@@ -108,7 +100,7 @@
 				}
 			}, {
 				"@type": "Article",
-				"headline": "TEMA 01 WEKITA &raquo; Wedding Kita",
+				"headline": "Budi Arinda",
 				"datePublished": "2022-05-10T10:45:51+07:00",
 				"dateModified": "2022-08-02T19:45:46+07:00",
 				"author": {
@@ -117,8 +109,8 @@
 				"publisher": {
 					"@id": "#organization"
 				},
-				"description": "the Wedding of",
-				"name": "TEMA 01 WEKITA &raquo; Wedding Kita",
+				"description": "the Wedding of Wahyu Budi & Arinda Reni",
+				"name": "Budi Arinda",
 				"@id": "tema-01-wekita/#richSnippet",
 				"isPartOf": {
 					"@id": "tema-01-wekita/#webpage"
@@ -134,7 +126,6 @@
 		}
 	</script>
 	<!-- /Plugin WordPress Rank Math SEO -->
-
 	<link rel='dns-prefetch' href='//s.w.org' />
 	<link rel="alternate" type="application/rss+xml" title="Wedding Kita &raquo; Feed" href="feed/" />
 	<link rel="alternate" type="application/rss+xml" title="Wedding Kita &raquo; Umpan Komentar"
@@ -146,20 +137,18 @@
 			"svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
 			"svgExt": ".svg",
 			"source": {
-				"concatemoji": "https:\/\/weddingkita.id\/wp-includes\/js\/wp-emoji-release.min.js"
+				"concatemoji": "wp-includes\/js\/wp-emoji-release.min.js"
 			}
 		};
 		/*! This file is auto-generated */
 		! function (e, a, t) {
 			var n, r, o, i = a.createElement("canvas"),
 				p = i.getContext && i.getContext("2d");
-
 			function s(e, t) {
 				var a = String.fromCharCode,
 					e = (p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0), i.toDataURL());
 				return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL()
 			}
-
 			function c(e) {
 				var t = a.createElement("script");
 				t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t)
@@ -255,211 +244,159 @@
 			--wp--preset--font-size--large: 36px;
 			--wp--preset--font-size--x-large: 42px;
 		}
-
 		.has-black-color {
 			color: var(--wp--preset--color--black) !important;
 		}
-
 		.has-cyan-bluish-gray-color {
 			color: var(--wp--preset--color--cyan-bluish-gray) !important;
 		}
-
 		.has-white-color {
 			color: var(--wp--preset--color--white) !important;
 		}
-
 		.has-pale-pink-color {
 			color: var(--wp--preset--color--pale-pink) !important;
 		}
-
 		.has-vivid-red-color {
 			color: var(--wp--preset--color--vivid-red) !important;
 		}
-
 		.has-luminous-vivid-orange-color {
 			color: var(--wp--preset--color--luminous-vivid-orange) !important;
 		}
-
 		.has-luminous-vivid-amber-color {
 			color: var(--wp--preset--color--luminous-vivid-amber) !important;
 		}
-
 		.has-light-green-cyan-color {
 			color: var(--wp--preset--color--light-green-cyan) !important;
 		}
-
 		.has-vivid-green-cyan-color {
 			color: var(--wp--preset--color--vivid-green-cyan) !important;
 		}
-
 		.has-pale-cyan-blue-color {
 			color: var(--wp--preset--color--pale-cyan-blue) !important;
 		}
-
 		.has-vivid-cyan-blue-color {
 			color: var(--wp--preset--color--vivid-cyan-blue) !important;
 		}
-
 		.has-vivid-purple-color {
 			color: var(--wp--preset--color--vivid-purple) !important;
 		}
-
 		.has-black-background-color {
 			background-color: var(--wp--preset--color--black) !important;
 		}
-
 		.has-cyan-bluish-gray-background-color {
 			background-color: var(--wp--preset--color--cyan-bluish-gray) !important;
 		}
-
 		.has-white-background-color {
 			background-color: var(--wp--preset--color--white) !important;
 		}
-
 		.has-pale-pink-background-color {
 			background-color: var(--wp--preset--color--pale-pink) !important;
 		}
-
 		.has-vivid-red-background-color {
 			background-color: var(--wp--preset--color--vivid-red) !important;
 		}
-
 		.has-luminous-vivid-orange-background-color {
 			background-color: var(--wp--preset--color--luminous-vivid-orange) !important;
 		}
-
 		.has-luminous-vivid-amber-background-color {
 			background-color: var(--wp--preset--color--luminous-vivid-amber) !important;
 		}
-
 		.has-light-green-cyan-background-color {
 			background-color: var(--wp--preset--color--light-green-cyan) !important;
 		}
-
 		.has-vivid-green-cyan-background-color {
 			background-color: var(--wp--preset--color--vivid-green-cyan) !important;
 		}
-
 		.has-pale-cyan-blue-background-color {
 			background-color: var(--wp--preset--color--pale-cyan-blue) !important;
 		}
-
 		.has-vivid-cyan-blue-background-color {
 			background-color: var(--wp--preset--color--vivid-cyan-blue) !important;
 		}
-
 		.has-vivid-purple-background-color {
 			background-color: var(--wp--preset--color--vivid-purple) !important;
 		}
-
 		.has-black-border-color {
 			border-color: var(--wp--preset--color--black) !important;
 		}
-
 		.has-cyan-bluish-gray-border-color {
 			border-color: var(--wp--preset--color--cyan-bluish-gray) !important;
 		}
-
 		.has-white-border-color {
 			border-color: var(--wp--preset--color--white) !important;
 		}
-
 		.has-pale-pink-border-color {
 			border-color: var(--wp--preset--color--pale-pink) !important;
 		}
-
 		.has-vivid-red-border-color {
 			border-color: var(--wp--preset--color--vivid-red) !important;
 		}
-
 		.has-luminous-vivid-orange-border-color {
 			border-color: var(--wp--preset--color--luminous-vivid-orange) !important;
 		}
-
 		.has-luminous-vivid-amber-border-color {
 			border-color: var(--wp--preset--color--luminous-vivid-amber) !important;
 		}
-
 		.has-light-green-cyan-border-color {
 			border-color: var(--wp--preset--color--light-green-cyan) !important;
 		}
-
 		.has-vivid-green-cyan-border-color {
 			border-color: var(--wp--preset--color--vivid-green-cyan) !important;
 		}
-
 		.has-pale-cyan-blue-border-color {
 			border-color: var(--wp--preset--color--pale-cyan-blue) !important;
 		}
-
 		.has-vivid-cyan-blue-border-color {
 			border-color: var(--wp--preset--color--vivid-cyan-blue) !important;
 		}
-
 		.has-vivid-purple-border-color {
 			border-color: var(--wp--preset--color--vivid-purple) !important;
 		}
-
 		.has-vivid-cyan-blue-to-vivid-purple-gradient-background {
 			background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;
 		}
-
 		.has-light-green-cyan-to-vivid-green-cyan-gradient-background {
 			background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;
 		}
-
 		.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
 			background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;
 		}
-
 		.has-luminous-vivid-orange-to-vivid-red-gradient-background {
 			background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;
 		}
-
 		.has-very-light-gray-to-cyan-bluish-gray-gradient-background {
 			background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;
 		}
-
 		.has-cool-to-warm-spectrum-gradient-background {
 			background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
 		}
-
 		.has-blush-light-purple-gradient-background {
 			background: var(--wp--preset--gradient--blush-light-purple) !important;
 		}
-
 		.has-blush-bordeaux-gradient-background {
 			background: var(--wp--preset--gradient--blush-bordeaux) !important;
 		}
-
 		.has-luminous-dusk-gradient-background {
 			background: var(--wp--preset--gradient--luminous-dusk) !important;
 		}
-
 		.has-pale-ocean-gradient-background {
 			background: var(--wp--preset--gradient--pale-ocean) !important;
 		}
-
 		.has-electric-grass-gradient-background {
 			background: var(--wp--preset--gradient--electric-grass) !important;
 		}
-
 		.has-midnight-gradient-background {
 			background: var(--wp--preset--gradient--midnight) !important;
 		}
-
 		.has-small-font-size {
 			font-size: var(--wp--preset--font-size--small) !important;
 		}
-
 		.has-medium-font-size {
 			font-size: var(--wp--preset--font-size--medium) !important;
 		}
-
 		.has-large-font-size {
 			font-size: var(--wp--preset--font-size--large) !important;
 		}
-
 		.has-x-large-font-size {
 			font-size: var(--wp--preset--font-size--x-large) !important;
 		}
@@ -469,40 +406,22 @@
 		href='wp-content/plugins/weddingpress/addons/comment-kit//css/wdp_style.css' media='screen' />
 	<style id='wdp_style-inline-css'>
 		.wdp-wrapper {
-
 			font-size: 14px
 		}
-
-
-
 		.wdp-wrapper ul.wdp-container-comments li.wdp-item-comment .wdp-comment-avatar img {
-
 			max-width: 28px;
-
 			max-height: 28px;
-
 		}
-
 		.wdp-wrapper ul.wdp-container-comments li.wdp-item-comment .wdp-comment-content {
-
 			margin-left: 38px;
-
 		}
-
 		.wdp-wrapper ul.wdp-container-comments li.wdp-item-comment ul .wdp-comment-avatar img {
-
 			max-width: 24px;
-
 			max-height: 24px;
-
 		}
-
 		.wdp-wrapper ul.wdp-container-comments li.wdp-item-comment ul ul .wdp-comment-avatar img {
-
 			max-width: 21px;
-
 			max-height: 21px;
-
 		}
 	</style>
 	<link rel='stylesheet' id='wdp-centered-css-css'
@@ -572,22 +491,18 @@
 			bottom: 0%;
 			z-index: 10;
 		}
-
 		.elementor-column-gap {
 			height: 100vh;
 		}
-
 		.elementor-column-gap-no {
 			height: 100vh;
 		}
-
 		.elementor-add-section .elementor-visible-desktop {
 			margin: 0;
 		}
 	</style>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 </head>
-
 <body
 	class="page-template-default page page-id-139055 elementor-default elementor-template-canvas elementor-kit-18 elementor-page elementor-page-139055">
 	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
@@ -816,15 +731,12 @@
 														<div class="clearfix"></div>
 													</div>
 												</div>
-
-
 												<script type="text/javascript">
 													jQuery(document).ready(function ($) {
 														'use strict';
 														$("#wpkoi-elements-countdown-715e37e8").countdown();
 													});
 												</script>
-
 											</div>
 										</div>
 									</div>
@@ -1058,7 +970,6 @@
 											data-id="1b385ddd" data-element_type="widget"
 											data-widget_type="weddingpress-timeline.default">
 											<div class="elementor-widget-container">
-
 												<div class="twae-vertical twae-wrapper twae-centered">
 													<div class="twae-timeline-centered twae-timeline-sm twae-line ">
 														<article class="twae-timeline-entry twae-right-aligned">
@@ -1072,7 +983,6 @@
 																</div>
 																<div class="twae-bg-orange twae-data-container">
 																	<span class="twae-title">Awal Cerita</span>
-
 																	<div class="twae-description">
 																		<p>Awal bertemuu karena satu tempat khursus Bahasa Inggris dan SMP yang sama.</p>
 																	</div>
@@ -1090,7 +1000,6 @@
 																</div>
 																<div class="twae-bg-orange twae-data-container">
 																	<span class="twae-title">Bertemu Kembali</span>
-
 																	<div class="twae-description">
 																		<p>Bertemu kembali dan mulai akrab karena sama-sama saling membantu dalam pembelajaran tingkat akhir walaupun beda SMK.</p>
 																	</div>
@@ -1108,7 +1017,6 @@
 																</div>
 																<div class="twae-bg-orange twae-data-container">
 																	<span class="twae-title">LDR</span>
-
 																	<div class="twae-description">
 																		<p>Menjalani hubungan Long Distance Relation (Jakarta - Mojokerto).</p>
 																	</div>
@@ -1126,7 +1034,6 @@
 																</div>
 																<div class="twae-bg-orange twae-data-container">
 																	<span class="twae-title">Lamaran</span>
-
 																	<div class="twae-description">
 																		<p>Pada tanggal 16 Mei 2022 kami mengikat diri pada pertunangan menuju selangkah lebih dekat.</p>
 																	</div>
@@ -1144,7 +1051,6 @@
 																</div>
 																<div class="twae-bg-orange twae-data-container">
 																	<span class="twae-title">Menikah</span>
-
 																	<div class="twae-description">
 																		<p>11 Maret 2023 Alhamdulillah kami bisa melaksanakan Pernikahan dan Resepsi.</p>
 																	</div>
@@ -1387,7 +1293,6 @@
 						</div>
 					</div>
 				</section>
-				
 				<section
 					class="elementor-section elementor-top-section elementor-element elementor-element-32a677ed elementor-section-boxed elementor-section-height-default elementor-section-height-default wdp-sticky-section-no"
 					data-id="32a677ed" data-element_type="section" id="galeri"
@@ -1423,8 +1328,6 @@
 																	e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY1ODEsInVybCI6Imh0dHBzOlwvXC93ZWRkaW5na2l0YS5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMTJcLzEtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjE4OTc1YTEyIn0%3D">
 																	<div class="elementor-carousel-image"
 																		style="background-image: url(wp-content/uploads/2021/12/1-scaled.webp)">
-
-
 																	</div>
 																</a> </div>
 															<div class="swiper-slide">
@@ -1435,8 +1338,6 @@
 																	e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY1ODIsInVybCI6Imh0dHBzOlwvXC93ZWRkaW5na2l0YS5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMTJcLzItc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjE4OTc1YTEyIn0%3D">
 																	<div class="elementor-carousel-image"
 																		style="background-image: url(wp-content/uploads/2021/12/2-scaled.webp)">
-
-
 																	</div>
 																</a> </div>
 															<div class="swiper-slide">
@@ -1447,8 +1348,6 @@
 																	e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY1ODMsInVybCI6Imh0dHBzOlwvXC93ZWRkaW5na2l0YS5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMTJcLzMtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjE4OTc1YTEyIn0%3D">
 																	<div class="elementor-carousel-image"
 																		style="background-image: url(wp-content/uploads/2021/12/3-scaled.webp)">
-
-
 																	</div>
 																</a> </div>
 															<div class="swiper-slide">
@@ -1459,8 +1358,6 @@
 																	e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY1ODQsInVybCI6Imh0dHBzOlwvXC93ZWRkaW5na2l0YS5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMTJcLzQuanBnIiwic2xpZGVzaG93IjoiMTg5NzVhMTIifQ%3D%3D">
 																	<div class="elementor-carousel-image"
 																		style="background-image: url(wp-content/uploads/2021/12/4.webp)">
-
-
 																	</div>
 																</a> </div>
 															<div class="swiper-slide">
@@ -1471,8 +1368,6 @@
 																	e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY1ODYsInVybCI6Imh0dHBzOlwvXC93ZWRkaW5na2l0YS5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMTJcLzUuanBnIiwic2xpZGVzaG93IjoiMTg5NzVhMTIifQ%3D%3D">
 																	<div class="elementor-carousel-image"
 																		style="background-image: url(wp-content/uploads/2021/12/5.webp)">
-
-
 																	</div>
 																</a> </div>
 														</div>
@@ -1494,40 +1389,30 @@
 															<div class="swiper-slide">
 																<div class="elementor-fit-aspect-ratio elementor-carousel-image"
 																	style="background-image: url(wp-content/uploads/2021/12/1-scaled.webp)">
-
-
 																</div>
 																</a>
 															</div>
 															<div class="swiper-slide">
 																<div class="elementor-fit-aspect-ratio elementor-carousel-image"
 																	style="background-image: url(wp-content/uploads/2021/12/2-scaled.webp)">
-
-
 																</div>
 																</a>
 															</div>
 															<div class="swiper-slide">
 																<div class="elementor-fit-aspect-ratio elementor-carousel-image"
 																	style="background-image: url(wp-content/uploads/2021/12/3-scaled.webp)">
-
-
 																</div>
 																</a>
 															</div>
 															<div class="swiper-slide">
 																<div class="elementor-fit-aspect-ratio elementor-carousel-image"
 																	style="background-image: url(wp-content/uploads/2021/12/4.webp)">
-
-
 																</div>
 																</a>
 															</div>
 															<div class="swiper-slide">
 																<div class="elementor-fit-aspect-ratio elementor-carousel-image"
 																	style="background-image: url(wp-content/uploads/2021/12/5.webp)">
-
-
 																</div>
 																</a>
 															</div>
@@ -1618,19 +1503,15 @@
 																	data-id="dc581d4" data-element_type="widget"
 																	data-widget_type="weddingpress-copy-text.default">
 																	<div class="elementor-widget-container">
-
 																		<div class="elementor-image img"></div>
-
 																		<div class="head-title"></div>
 																		<div class="elementor-button-wrapper">
 																			<div class="copy-content spancontent"
 																				style="display: none;">1420015961641</div>
-
 																			<a style="cursor:pointer;"
 																				onclick="copyText(this)"
 																				data-message="berhasil disalin"
 																				class="elementor-button" role="button">
-
 																				<div
 																					class="elementor-button-content-wrapper">
 																					<span
@@ -1643,25 +1524,20 @@
 																						Text</span>
 																				</div>
 																			</a>
-
 																		</div>
-
 																		<style type="text/css">
 																			.spancontent {
 																				padding-bottom: 20px;
 																			}
-
 																			.copy-content {
 																				color: #6EC1E4;
 																				text-align: center;
 																			}
-
 																			.head-title {
 																				color: #6EC1E4;
 																				text-align: center;
 																			}
 																		</style>
-
 																		<script>
 																			function copyText(el) {
 																				var content = jQuery(el).siblings('div.copy-content').html()
@@ -1670,13 +1546,11 @@
 																				temp.val(content.replace(/<br ?\/?>/g, "\n")).select();
 																				document.execCommand("copy");
 																				temp.remove();
-
 																				var text = jQuery(el).html()
 																				jQuery(el).html(jQuery(el).data('message'))
 																				var counter = 0;
 																				var interval = setInterval(function () {
 																					counter++;
-
 																					if (counter == 2) {
 																						jQuery(el).html(text)
 																						Interval(interval);
@@ -1684,7 +1558,6 @@
 																				}, 5000);
 																			}
 																		</script>
-
 																	</div>
 																</div>
 																<div class="elementor-element elementor-element-777e5799 wdp-sticky-section-no elementor-widget elementor-widget-heading"
@@ -1703,7 +1576,6 @@
 												</div>
 											</div>
 										</section>
-										
 										<section
 											class="elementor-section elementor-inner-section elementor-element elementor-element-57fe94d1 elementor-section-full_width elementor-section-height-default elementor-section-height-default wdp-sticky-section-no"
 											data-id="57fe94d1" data-element_type="section">
@@ -1754,7 +1626,6 @@
 						</div>
 					</div>
 				</section>
-				
 				<section
 					class="elementor-section elementor-top-section elementor-element elementor-element-66ba38b4 elementor-section-boxed elementor-section-height-default elementor-section-height-default wdp-sticky-section-no"
 					data-id="66ba38b4" data-element_type="section"
@@ -1786,9 +1657,7 @@
 													tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan
 													sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat
 													tanda-tanda bagi kaum yang berfikir.
-
 													<br><br>
-
 													(Q.S Ar Rum : 21)</h2>
 											</div>
 										</div>
@@ -1857,8 +1726,6 @@
 																	data-id="72254da8" data-element_type="widget"
 																	data-widget_type="weddingpress-guestbook.default">
 																	<div class="elementor-widget-container">
-
-
 																		<div class=" elementor-comment-box-wrapper"
 																			data-id="wekita011">
 																			<div class="comment-form-container">
@@ -1879,7 +1746,6 @@
 																						}
 																						?> 
 																						required>
-
 																					<div class="guestbook-label">
 																						<label
 																							class="elementor-screen-only">
@@ -1913,12 +1779,9 @@
 																					</div>
 																				</form>
 																			</div>
-
 																			<div id="hidden-avatar"
 																				style="display:none;"></div>
-
 																			<div class="guestbook-list">
-
 																				<div class="user-guestbook">
 																					<div></div>
 																					<div class="guestbook">
@@ -1931,10 +1794,8 @@
 																							sadasdsa</div>
 																					</div>
 																				</div>
-
 																			</div>
 																		</div>
-
 																	</div>
 																</div>
 															</div>
@@ -2086,23 +1947,16 @@
 											data-id="518ded93" data-element_type="widget"
 											data-widget_type="weddingpress-wellcome.default">
 											<div class="elementor-widget-container">
-
 												<div class="modalx"
 													data-sampul='wp-content/uploads/2021/12/pexels-photo-265730.webp'>
-
 													<div class="overlayy"></div>
 													<div class="content-modalx">
 														<div class="info_modalx">
-
 															<div class="elementor-image img"><img
 																	src="wp-content/uploads/2021/12/tema1-co.webp"
 																	title="tema1-co" alt="tema1-co" /></div>
-
-
-
 															<div class="wdp-mempelai">Budi &amp; Arinda
 															</div>
-
 															<div class="wdp-dear">Kepada Bapak/Ibu/Saudara/i :
 																<br> <br>
 																<p class="wdp-mempelai" style="color: white; font-size: 2.5em; "><?php
@@ -2128,8 +1982,6 @@
 														</div>
 													</div>
 												</div>
-
-
 												<script>
 													const sampul = jQuery('.modalx').data('sampul');
 													jQuery('.modalx').css('background-image', 'url(' + sampul + ')');
@@ -2202,33 +2054,26 @@
 											data-settings="{&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_offset&quot;:127,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_effects_offset&quot;:0}"
 											data-widget_type="weddingpress-audio.default">
 											<div class="elementor-widget-container">
-
 												<script>
 													var settingAutoplay = 'yes';
 													window.settingAutoplay = settingAutoplay === 'disable' ? false : true;
 												</script>
-
 												<div id="audio-container" class="audio-box">
-
 													<audio id="song" loop>
 														<source src="wp-content/uploads/2021/12/backsound.mp3"
 															type="audio/mp3">
 													</audio>
-
 													<div class="elementor-icon-wrapper" id="unmute-sound"
 														style="display: none;">
 														<div class="elementor-icon elementor-animation-shrink">
 															<i aria-hidden="true" class="fa fa-play-circle"></i> </div>
 													</div>
-
 													<div class="elementor-icon-wrapper" id="mute-sound"
 														style="display: none;">
 														<div class="elementor-icon elementor-animation-shrink">
 															<i aria-hidden="true" class="fas fa-pause"></i> </div>
 													</div>
-
 												</div>
-
 											</div>
 										</div>
 									</div>
@@ -2968,5 +2813,4 @@
 	<script src='wp-content/plugins/weddingpress/assets/js/wdp.min.js' id='weddingpress-wdp-js'>
 	</script>
 </body>
-
 </html>
