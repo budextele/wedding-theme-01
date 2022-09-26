@@ -2110,10 +2110,10 @@
 																		<div class="elementor-image">
 																			<a href="#home">
 																				<img width="426" height="426"
-																					src="wp-content/uploads/2021/12/icon.png"
+																					src="wp-content/uploads/2021/12/icon.webp"
 																					class="elementor-animation-grow attachment-full size-full"
 																					alt="" loading="lazy"
-																					srcset="wp-content/uploads/2021/12/icon.png 426w, wp-content/uploads/2021/12/icon-300x300.png 300w, wp-content/uploads/2021/12/icon-150x150.png 150w"
+																					srcset="wp-content/uploads/2021/12/icon.webp 426w, wp-content/uploads/2021/12/icon-300x300.png 300w, wp-content/uploads/2021/12/icon-150x150.png 150w"
 																					sizes="(max-width: 426px) 100vw, 426px" />
 																			</a>
 																		</div>
@@ -2133,10 +2133,10 @@
 																		<div class="elementor-image">
 																			<a href="#mempelai">
 																				<img width="427" height="426"
-																					src="wp-content/uploads/2021/12/4.png"
+																					src="wp-content/uploads/2021/12/44.webp"
 																					class="elementor-animation-grow attachment-full size-full"
 																					alt="" loading="lazy"
-																					srcset="wp-content/uploads/2021/12/4.png 427w, wp-content/uploads/2021/12/4-300x300.png 300w, wp-content/uploads/2021/12/4-150x150.png 150w"
+																					srcset="wp-content/uploads/2021/12/44.webp 427w, wp-content/uploads/2021/12/4-300x300.png 300w, wp-content/uploads/2021/12/4-150x150.png 150w"
 																					sizes="(max-width: 427px) 100vw, 427px" />
 																			</a>
 																		</div>
@@ -2156,10 +2156,10 @@
 																		<div class="elementor-image">
 																			<a href="#event">
 																				<img width="426" height="426"
-																					src="wp-content/uploads/2021/12/3.png"
+																					src="wp-content/uploads/2021/12/33.webp"
 																					class="elementor-animation-grow attachment-full size-full"
 																					alt="" loading="lazy"
-																					srcset="wp-content/uploads/2021/12/3.png 426w, wp-content/uploads/2021/12/3-300x300.png 300w, wp-content/uploads/2021/12/3-150x150.png 150w"
+																					srcset="wp-content/uploads/2021/12/33.webp 426w, wp-content/uploads/2021/12/3-300x300.png 300w, wp-content/uploads/2021/12/3-150x150.png 150w"
 																					sizes="(max-width: 426px) 100vw, 426px" />
 																			</a>
 																		</div>
@@ -2179,10 +2179,10 @@
 																		<div class="elementor-image">
 																			<a href="#galeri">
 																				<img width="426" height="426"
-																					src="wp-content/uploads/2021/12/1.png"
+																					src="wp-content/uploads/2021/12/11.webp"
 																					class="elementor-animation-grow attachment-full size-full"
 																					alt="" loading="lazy"
-																					srcset="wp-content/uploads/2021/12/1.png 426w, wp-content/uploads/2021/12/1-300x300.png 300w, wp-content/uploads/2021/12/1-150x150.png 150w"
+																					srcset="wp-content/uploads/2021/12/11.webp 426w, wp-content/uploads/2021/12/1-300x300.png 300w, wp-content/uploads/2021/12/1-150x150.png 150w"
 																					sizes="(max-width: 426px) 100vw, 426px" />
 																			</a>
 																		</div>
@@ -2202,10 +2202,10 @@
 																		<div class="elementor-image">
 																			<a href="#ucapan">
 																				<img width="426" height="426"
-																					src="wp-content/uploads/2021/12/2.png"
+																					src="wp-content/uploads/2021/12/22.webp"
 																					class="elementor-animation-grow attachment-full size-full"
 																					alt="" loading="lazy"
-																					srcset="wp-content/uploads/2021/12/2.png 426w, wp-content/uploads/2021/12/2-300x300.png 300w, wp-content/uploads/2021/12/2-150x150.png 150w"
+																					srcset="wp-content/uploads/2021/12/22.webp 426w, wp-content/uploads/2021/12/2-300x300.png 300w, wp-content/uploads/2021/12/2-150x150.png 150w"
 																					sizes="(max-width: 426px) 100vw, 426px" />
 																			</a>
 																		</div>
