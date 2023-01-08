@@ -698,7 +698,7 @@
 														class="wpkoi-elements-countdown-container wpkoi-elements-countdown-label-block ">
 														<ul id="wpkoi-elements-countdown-715e37e8"
 															class="wpkoi-elements-countdown-items"
-															data-date="mar 11 2023 08:00:00">
+															data-date="mar 11 2023 07:00:00">
 															<li class="wpkoi-elements-countdown-item">
 																<div class="wpkoi-elements-countdown-days"><span
 																		data-days
@@ -1177,7 +1177,7 @@
 																	<div class="elementor-widget-container">
 																		<div
 																			class="elementor-text-editor elementor-clearfix">
-																			<p class="italic mb-4">Pukul 09.00 WIB</p>
+																			<p class="italic mb-4">Pukul 07.00 WIB</p>
 																		</div>
 																	</div>
 																</div>
@@ -1235,7 +1235,7 @@
 																	<div class="elementor-widget-container">
 																		<div
 																			class="elementor-text-editor elementor-clearfix">
-																			<p class="italic mb-4">Pukul 11.00 WIB</p>
+																			<p class="italic mb-4">Pukul 10.00 WIB</p>
 																		</div>
 																	</div>
 																</div>
@@ -1567,6 +1567,126 @@
 																		<p
 																			class="elementor-heading-title elementor-size-default">
 																			A/n Arinda Reni Eka Rohmawati
+																		</p>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</section>
+										<section
+											class="elementor-section elementor-inner-section elementor-element elementor-element-72a30774 elementor-section-full_width elementor-section-height-default elementor-section-height-default wdp-sticky-section-no"
+											data-id="72a30774" data-element_type="section">
+											<div class="elementor-container elementor-column-gap-default">
+												<div class="elementor-row">
+													<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-dae7a65 wdp-sticky-section-no"
+														data-id="dae7a65" data-element_type="column"
+														data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+														<div class="elementor-column-wrap elementor-element-populated">
+															<div class="elementor-widget-wrap">
+																<div class="elementor-element elementor-element-1c4563db wdp-sticky-section-no elementor-widget elementor-widget-image"
+																	data-id="1c4563db" data-element_type="widget"
+																	data-widget_type="image.default">
+																	<div class="elementor-widget-container">
+																		<div class="elementor-image">
+																			<img width="400" height="150"
+																				src="wp-content/uploads/2021/12/logo-bca.png"
+																				class="attachment-full size-full" alt=""
+																				loading="lazy"
+																				srcset="wp-content/uploads/2021/12/logo-bca.png 400w, wp-content/uploads/2021/12/logo-bca-300x113.png 300w"
+																				sizes="(max-width: 400px) 100vw, 400px" />
+																		</div>
+																	</div>
+																</div>
+																<div class="elementor-element elementor-element-6852fb5f elementor-widget-divider--view-line wdp-sticky-section-no elementor-widget elementor-widget-divider"
+																	data-id="6852fb5f" data-element_type="widget"
+																	data-widget_type="divider.default">
+																	<div class="elementor-widget-container">
+																		<div class="elementor-divider">
+																			<span class="elementor-divider-separator">
+																			</span>
+																		</div>
+																	</div>
+																</div>
+																<div class="elementor-element elementor-element-601bad62 wdp-sticky-section-no elementor-widget elementor-widget-heading"
+																	data-id="601bad62" data-element_type="widget"
+																	data-widget_type="heading.default">
+																	<div class="elementor-widget-container">
+																		<p
+																			class="elementor-heading-title elementor-size-default">
+																			No. Rekening : 5260478089</p>
+																	</div>
+																</div>
+																<div class="elementor-element elementor-element-dc581d4 elementor-align-center elementor-tablet-align-center elementor-mobile-align-center wdp-sticky-section-no elementor-widget elementor-widget-weddingpress-copy-text"
+																	data-id="dc581d4" data-element_type="widget"
+																	data-widget_type="weddingpress-copy-text.default">
+																	<div class="elementor-widget-container">
+																		<div class="elementor-image img"></div>
+																		<div class="head-title"></div>
+																		<div class="elementor-button-wrapper">
+																			<div class="copy-content spancontent"
+																				style="display: none;">5260478089</div>
+																			<a style="cursor:pointer;"
+																				onclick="copyText(this)"
+																				data-message="berhasil disalin"
+																				class="elementor-button" role="button">
+																				<div
+																					class="elementor-button-content-wrapper">
+																					<span
+																						class="elementor-button-icon elementor-align-icon-left">
+																						<i aria-hidden="true"
+																							class="far fa-copy"></i>
+																					</span>
+																					<span
+																						class="elementor-button-text">Copy
+																						Text</span>
+																				</div>
+																			</a>
+																		</div>
+																		<style type="text/css">
+																			.spancontent {
+																				padding-bottom: 20px;
+																			}
+																			.copy-content {
+																				color: #6EC1E4;
+																				text-align: center;
+																			}
+																			.head-title {
+																				color: #6EC1E4;
+																				text-align: center;
+																			}
+																		</style>
+																		<script>
+																			function copyText(el) {
+																				var content = jQuery(el).siblings('div.copy-content').html()
+																				var temp = jQuery("<textarea>");
+																				jQuery("body").append(temp);
+																				temp.val(content.replace(/<br ?\/?>/g, "\n")).select();
+																				document.execCommand("copy");
+																				temp.remove();
+																				var text = jQuery(el).html()
+																				jQuery(el).html(jQuery(el).data('message'))
+																				var counter = 0;
+																				var interval = setInterval(function () {
+																					counter++;
+																					if (counter == 2) {
+																						jQuery(el).html(text)
+																						Interval(interval);
+																					}
+																				}, 5000);
+																			}
+																		</script>
+																	</div>
+																</div>
+																<div class="elementor-element elementor-element-777e5799 wdp-sticky-section-no elementor-widget elementor-widget-heading"
+																	data-id="777e5799" data-element_type="widget"
+																	data-widget_type="heading.default">
+																	<div class="elementor-widget-container">
+																		<p
+																			class="elementor-heading-title elementor-size-default">
+																			A/n Wahyu Budi Utomo
 																		</p>
 																	</div>
 																</div>
